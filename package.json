@@ -1,5 +1,5 @@
 {
-  "name": "boss-config",
+  "name": "@boss-net/boss-config",
   "description": "Config setup for boss shared across projects",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
