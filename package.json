@@ -14,7 +14,7 @@
   "keywords": [
     "config"
   ],
-  "author": "Remy Sharp",
+  "author": "boss-net",
   "license": "(Apache-2.0 AND MIT)",
   "devDependencies": {
     "@types/jest": "^26.0.20",
